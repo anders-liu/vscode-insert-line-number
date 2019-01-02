@@ -7,6 +7,8 @@ This extension is used to insert line number to a text document which is being e
 > so it's typically used for code samples for easily indicating the metioned
 > lines; it's not suitable for real code file.
 
+![Screenshot](doc/insert-line-number-1.0.0.gif)
+
 ## Features
 
 The line numbers can be inserted to selected lines or the whole document if no any selected lines.
