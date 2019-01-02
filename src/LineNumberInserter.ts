@@ -33,7 +33,7 @@ export function execInsertLineNumber(/* context: vscode.ExtensionContext */) {
 }
 
 function buildFormatQuickPickItems(): FormatQuickPickItem[] {
-    const items = normalizedFormatConfigs.map((v, i) => ({
+    const items = normalizedFormatConfigs.map((v) => ({
         formatConfig: v,
         label: buildSample(v),
         description: buildDescription(v),

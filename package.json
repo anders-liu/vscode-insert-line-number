@@ -2,7 +2,22 @@
 	"name": "insert-line-number",
 	"displayName": "Insert Line Number",
 	"description": "Insert line numbers to selected lines or the whole document.",
+	"license": "MIT",
 	"version": "1.0.0",
+	"icon": "vscode-insert-line-number.png",
+	"keywords": ["line number"],
+	"author": {
+		"name": "anders-liu"
+	},
+	"homepage": "https://github.com/anders-liu/vscode-insert-line-number",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/anders-liu/vscode-insert-line-number"
+	},
+	"bugs": {
+		"url": "https://github.com/anders-liu/vscode-insert-line-number/issues"
+	},
+	"publisher": "anders-liu",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
