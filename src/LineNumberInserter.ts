@@ -1,6 +1,5 @@
 import * as vscode from 'vscode';
 import { InsertLineNumberConfig } from './configuration';
-import { isNumber } from 'util';
 
 interface FormatQuickPickItem extends vscode.QuickPickItem {
     formatConfig: InsertLineNumberConfig.Format;
@@ -88,7 +87,7 @@ function formatNumber(
             end.toString().length,
             formatConfig.padding === "zero" ? "0" : " ",
             formatConfig.align === "right");
-    } else if (isNumber(formatConfig.width)) {
+    } else if (typeof(formatConfig.width) === "number") {
         str = padString(
             str,
             formatConfig.width,

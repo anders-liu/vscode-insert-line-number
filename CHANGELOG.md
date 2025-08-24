@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.2] - 2025/8/23
+### Modified
+- Updated dependent libraries.
+
 ## [1.0.1] - 2019/12/18
 ### Modified
 - If only one line is selected, apply line number to this single line, instead of the whole document.
