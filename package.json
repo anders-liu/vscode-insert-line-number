@@ -3,7 +3,7 @@
 	"displayName": "Insert Line Number",
 	"description": "Insert line numbers to selected lines or the whole document.",
 	"license": "MIT",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"icon": "vscode-insert-line-number.png",
 	"keywords": [
 		"line number"
@@ -21,7 +21,7 @@
 	},
 	"publisher": "andersliu",
 	"engines": {
-		"vscode": "^1.90.0"
+		"vscode": "^1.103.0"
 	},
 	"categories": [
 		"Formatters"
