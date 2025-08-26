@@ -4,10 +4,15 @@ This extension is used to insert line number to a text document which is being e
 
 > *Note*,
 > This extensions inserts real pure text-based line numbers to each line,
-> so it's typically used for code samples for easily indicating the metioned
-> lines; it's not suitable for real code file.
+> so it's typically used for code samples _in docs or comments_ for easily indicating the metioned
+> lines; it _isn't_ suitable for real code file.
 
 ![Screenshot](doc/insert-line-number-1.0.0.gif)
+
+### Support
+
+If you find this extension helpful, you can [buy me a coffee](https://www.buymeacoffee.com/andersliu).
+<a href="https://www.buymeacoffee.com/andersliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
 ## Features
 
