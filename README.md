@@ -9,11 +9,6 @@ This extension is used to insert line number to a text document which is being e
 
 ![Screenshot](doc/insert-line-number-1.0.0.gif)
 
-### Support
-
-If you find this extension helpful, you can [buy me a coffee](https://www.buymeacoffee.com/andersliu).
-<a href="https://www.buymeacoffee.com/andersliu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
-
 ## Features
 
 The line numbers can be inserted to selected lines or the whole document if no any selected lines.
